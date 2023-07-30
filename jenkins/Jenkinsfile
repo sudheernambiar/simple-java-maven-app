@@ -27,7 +27,7 @@ pipeline {
         }
         stage('Finish') {
             steps {
-                echo 'Completed with all changes!!'
+                echo 'Completed with all changes!'
             }
         }
     }
